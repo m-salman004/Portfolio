@@ -12,3 +12,9 @@ ul {
     color: darkcyan;
     box-shadow: 0 5px 5px -1px rgba(0,0,0,.2);
 }
+li {
+    display: inline;
+    font-size: larger;
+    font-family: sans-serif;
+    font-weight: bold;
+}
