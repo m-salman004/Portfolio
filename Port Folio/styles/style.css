@@ -68,5 +68,9 @@ textarea {
 #shootMsg[type=text] {
     text-align: center;
 }
+.copyRight {
+    text-align: center;
+    background-color: rgb(232, 226, 219);
 
+}
 
