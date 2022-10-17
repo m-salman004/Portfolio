@@ -21,6 +21,10 @@ li {
 a {
     text-decoration: none;
 }
-
+#text {
+    margin-left: 200px;
+    font-family: sans-serif;
+    font-size: x-large;
+}
 
 
