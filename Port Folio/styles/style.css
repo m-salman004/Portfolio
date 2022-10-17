@@ -58,6 +58,15 @@ p {
     font-family: sans-serif;
     font-size: xx-large;
 }
-
+input[type=text] {
+    width: 35%;
+}
+textarea {
+    width: 71%;
+    margin-top: 10px;
+}
+#shootMsg[type=text] {
+    text-align: center;
+}
 
 
