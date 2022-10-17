@@ -26,5 +26,8 @@ a {
     font-family: sans-serif;
     font-size: x-large;
 }
-
+h5 {
+    color: lightcoral;
+    padding: 30px;
+}
 
