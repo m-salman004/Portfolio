@@ -30,4 +30,10 @@ h5 {
     color: lightcoral;
     padding: 30px;
 }
-
+.boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
