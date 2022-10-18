@@ -30,6 +30,9 @@ h5 {
     color: lightcoral;
     padding: 30px;
 }
+span {
+    margin-top: 30%;
+}
 .boxes {
     display: flex;
     justify-content: center;
