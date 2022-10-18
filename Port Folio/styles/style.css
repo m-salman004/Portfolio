@@ -3,6 +3,11 @@
     margin: 0%;
     padding: 0%;
 }
+img {
+    width: 100%;
+    margin: 0 auto;
+    /* position: relative; */
+}
 ul {
     text-align: center;
     word-spacing: 7px;
