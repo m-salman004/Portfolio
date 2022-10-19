@@ -111,6 +111,17 @@ b {
     text-align: center;
     font-size: large;
 }
+/* .boxContainer {
+
+} */
+.contactBoxes, h3
+b {
+    text-align: center;
+    font-size: x-large;
+    font-style: normal;
+    font-family: sans-serif;
+    /* color: rgb(19, 183, 237); */
+}
 p {
     /* padding: 15px */
     /* text-align: center; */
