@@ -121,7 +121,9 @@ b {
 }
 .socialAccounts {
     display: flex;
-    
+    align-items: center;
+    justify-content: center;
+
 }
 p {
     /* padding: 15px */
