@@ -93,6 +93,7 @@ b {
     color: black;
     display: flex;
     justify-content: space-between;
+    width: 100%;
 }
 p {
     /* padding: 15px */
