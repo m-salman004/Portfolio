@@ -67,6 +67,7 @@ span {
     background-color: lightgray;
     height: 150px;
     padding: 50px;
+    margin-top: 50px;
 }
 .category {
     text-align: center;
@@ -118,6 +119,7 @@ b {
     font-style: normal;
     font-family: sans-serif;
     /* color: rgb(19, 183, 237); */
+    margin-top: 50px;
 }
 .socialAccounts {
     display: flex;
@@ -130,6 +132,7 @@ b {
     margin: 10px;
     border: 1px solid ;
     height: 150px;
+    margin-top: 50px;
 }
 p {
     /* padding: 15px */
