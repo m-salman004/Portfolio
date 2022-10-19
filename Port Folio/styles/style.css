@@ -119,6 +119,10 @@ b {
     font-family: sans-serif;
     /* color: rgb(19, 183, 237); */
 }
+.socialAccounts {
+    display: flex;
+    
+}
 p {
     /* padding: 15px */
     /* text-align: center; */
