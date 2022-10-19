@@ -95,6 +95,9 @@ b {
     justify-content: space-between;
     width: 100%;
 }
+.section img {
+    width: 450px;
+}
 p {
     /* padding: 15px */
     /* text-align: center; */
