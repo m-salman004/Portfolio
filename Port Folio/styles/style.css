@@ -93,6 +93,7 @@ b {
     color: black;
     display: flex;
     justify-content: space-between;
+    padding: 20px;
     width: 100%;
 }
 .section img {
