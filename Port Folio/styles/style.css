@@ -91,6 +91,7 @@ b {
 .section {
     background-color: lightgray;
     color: black;
+    display: flex;
 }
 p {
     /* padding: 15px */
