@@ -98,6 +98,12 @@ b {
 .section img {
     width: 450px;
 }
+.section h4  {
+    padding-left: 25px;
+ }
+.section h2  {
+    padding-left: 25px;
+ }
 p {
     /* padding: 15px */
     /* text-align: center; */
