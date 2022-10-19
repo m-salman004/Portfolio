@@ -77,6 +77,12 @@ span {
 a {
     color: black;
 }
+h4 {
+    font-family:  Arial;
+}
+b {
+    font-weight: bolder;
+}
 p {
     /* padding: 15px */
     /* text-align: center; */
