@@ -104,6 +104,12 @@ b {
 .section h2  {
     padding-left: 25px;
  }
+ .section p {
+    text-align: justify;
+    /* margin-right: 15px;  */
+    text-align: center;
+    font-size: large;
+}
 p {
     /* padding: 15px */
     /* text-align: center; */
