@@ -74,6 +74,9 @@ span {
     word-spacing: 5px;
     background-color: lightgray;
 }
+a {
+    color: black;
+}
 p {
     /* padding: 15px */
     /* text-align: center; */
