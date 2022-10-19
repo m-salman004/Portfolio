@@ -125,6 +125,10 @@ b {
     justify-content: center;
 
 }
+#box {
+    width: 20%;
+    margin: 10px;
+}
 p {
     /* padding: 15px */
     /* text-align: center; */
