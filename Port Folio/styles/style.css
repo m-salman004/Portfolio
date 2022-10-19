@@ -77,12 +77,18 @@ span {
 a {
     color: black;
 }
-h4 {
-    font-family:  Arial;
-}
+h4,
 b {
+    font-family:  Arial;
     font-weight: bolder;
 }
+h2, 
+b {
+    /* font-size: larger; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(251, 174, 31);
+}
+
 p {
     /* padding: 15px */
     /* text-align: center; */
