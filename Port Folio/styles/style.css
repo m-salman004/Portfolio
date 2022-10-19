@@ -133,6 +133,8 @@ b {
     border: 1px solid ;
     height: 150px;
     margin-top: 50px;
+    font-size: large;
+    text-align: center;
 }
 p {
     /* padding: 15px */
