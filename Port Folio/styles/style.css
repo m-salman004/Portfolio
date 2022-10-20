@@ -82,6 +82,9 @@ a {
     display: flex;
     justify-content: space-around;
 }
+.info, h4  {
+    margin-top: 40px;
+}
 h4,
 b {
     font-family:  Arial;
