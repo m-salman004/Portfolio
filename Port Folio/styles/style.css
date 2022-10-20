@@ -124,7 +124,9 @@ b {
 .info a {
     background-color: darkgrey;
     color: white;
-    
+    padding: 8px 16px;
+    border: 2px solid darkgray;
+    border-radius: 6px;
 }
 .socialAccounts {
     display: flex;
