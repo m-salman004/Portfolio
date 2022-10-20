@@ -78,6 +78,10 @@ span {
 a {
     color: black;
 }
+.infoContainer {
+    display: flex;
+    justify-content: space-around;
+}
 h4,
 b {
     font-family:  Arial;
