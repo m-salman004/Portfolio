@@ -132,7 +132,10 @@ b {
     font-weight: 500;
     margin-left: 50px;
 }
-
+.info a:hover {
+    background-color: transparent;
+    color: white;
+}
 .socialAccounts {
     display: flex;
     align-items: center;
