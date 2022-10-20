@@ -130,7 +130,9 @@ b {
     transition: all 0.3s ease;
     font-size: 18px;
     font-weight: 500;
+    margin-left: 50px;
 }
+
 .socialAccounts {
     display: flex;
     align-items: center;
