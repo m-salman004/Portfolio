@@ -127,6 +127,7 @@ b {
     padding: 8px 16px;
     border: 2px solid darkgray;
     border-radius: 6px;
+    transition: all 0.3s ease;
 }
 .socialAccounts {
     display: flex;
