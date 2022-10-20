@@ -121,6 +121,11 @@ b {
     /* color: rgb(19, 183, 237); */
     margin-top: 50px;
 }
+.info a {
+    background-color: darkgrey;
+    color: white;
+    
+}
 .socialAccounts {
     display: flex;
     align-items: center;
