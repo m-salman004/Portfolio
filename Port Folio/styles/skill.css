@@ -45,6 +45,30 @@ h2 {
     width: 70%;
     animation: bootstrap 3s;
 }
+@keyframes html {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 90%;
+    }
+}
+@keyframes css {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 90%;
+    }
+}
+@keyframes bootstrap {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 90%;
+    }
+}
 
 
 
