@@ -48,6 +48,7 @@ body {
 .card p {
     margin-top: 20px;
     font-weight: 300;
-
+    letter-spacing: 2px;
+    max-height: 0;
 
 }
