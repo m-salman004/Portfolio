@@ -33,4 +33,6 @@ body {
 .material-symbols-outlined{
     background-color: beige;
     font-size: 28px ;
+    width: 60px;
+    height: 60px;
 }
