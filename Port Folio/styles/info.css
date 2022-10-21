@@ -53,3 +53,10 @@ body {
     opacity: 0;
     transition: 0.3s linear;
 }
+.card p:hover {
+    max-height: 40px;
+    opacity: 1;
+}
+
+
+
