@@ -40,3 +40,8 @@ body {
     border-radius: 50%;
     transition: 0.3s linear ;
 }
+.card:hover .material-symbols-outlined  {
+    background-color: none;
+    transform: scale(1.6);
+    color: royalblue;
+}
