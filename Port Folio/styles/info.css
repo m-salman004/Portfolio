@@ -37,4 +37,6 @@ body {
     height: 60px;
     text-align: center;
     line-height: 62px !important;
+    border-radius: 50%;
+    transition: 0.3s linear ;
 }
