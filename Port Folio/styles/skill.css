@@ -15,7 +15,10 @@ h2 {
     margin: 90px;
     padding: 90px;
 }
-
+.skills li {
+    margin: 10px;
+    padding: 10px;
+}
 
 
 
