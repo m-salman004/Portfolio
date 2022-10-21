@@ -30,4 +30,7 @@ body {
     height: 200px; 
     width: calc(33% - 20px);
 }
-
+.material-symbols-outlined{
+    background-color: beige;
+    font-size: 28px ;
+}
