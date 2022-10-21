@@ -45,3 +45,9 @@ body {
     transform: scale(1.6);
     color: royalblue;
 }
+.card p {
+    margin-top: 20px;
+    font-weight: 300;
+
+
+}
